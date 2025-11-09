@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Subhrajyoti, an AIML enthusiast. Like to deep dive into the underlying <br>concepts and maths behind AIML algorithms. Currently strengthening <br>my ML and DL fundamentals, learning about time series analysis and <br>working on a paper related to time series.
+I am Subhrajyoti, a Machine Learning and Mathematics enthusiast. Like to deep dive into the underlying <br>concepts and maths behind AIML algorithms. Currently strengthening <br>my ML and DL fundamentals. 
 
 
 ## 🌐 Socials:
